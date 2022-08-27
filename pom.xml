@@ -58,7 +58,7 @@
 <id>nexus</id>
 <name>nexussnapshot</name>
 <url>http://192.168.158.128:8081/repository/onlinebookstore-snapshot/</url>
-</snashotRepository>
+</snapshotRepository>
 </distributionManagement>
 
 
